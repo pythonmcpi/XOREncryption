@@ -25,3 +25,6 @@ This implementation goes beyond the basic single-key model to use multiple keys 
 In these examples, I'm encrypting the same string with the same keys in order to keep consistency with the output, and to demonstrate that an encrypted string from a C program can be decrypted in a Java application, or any combination, so long as the keys remain the same.
 
 For an in-depth explanation of the code, check out [KyleWBanks.com](http://kylewbanks.com/blog/Simple-XOR-Encryption-Decryption-in-Cpp).
+
+
+This copy is forked by pythonmcpi and the original is [here](https://github.com/KyleBanks/XOREncryption)
